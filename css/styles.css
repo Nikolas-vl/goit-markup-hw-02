@@ -98,8 +98,8 @@ ul {
   color: #2e2f42;
   text-transform: capitalize;
 }
-.team-list {
-  background-color: #ffffff;
+.team-list-item {
+  background: #fff;
 }
 .team-list-name {
   font-weight: 500;
